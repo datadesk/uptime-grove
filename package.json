@@ -1,0 +1,31 @@
+{
+  "name": "uptime-grove",
+  "version": "0.0.1",
+  "description": "An Uptime plugin that sends notifications to  the Grove.io IRC service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/datadesk/uptime-grove.git"
+  },
+  "keywords": [
+    "uptime",
+    "webhooks",
+    "grove",
+    "IRE"
+  ],
+  "author": {
+    "name": "Ben Welsh",
+    "email": "ben.welsh@gmail.com"
+  },
+  "license": "",
+  "readmeFilename": "README.md",
+  "readme": "Uptime Grove plugin\n\n An Uptime plugin that sends notifications to the Grove.io IRC service.",
+  "bugs": {
+    "url": "https://github.com/datadesk/uptime-grove/issues"
+  },
+  "_id": "uptime-grove@0.0.1",
+  "_from": "uptime-grove@"
+}
