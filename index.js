@@ -47,7 +47,7 @@ exports.init = function() {
               url: check.url,
               service: "Uptime",
               message: message,
-              icon_url: 'http://abovethelaw.com/images/entries/drudge%20siren.gif'
+              icon_url: 'https://raw.github.com/datadesk/uptime-grove/master/siren.gif'
             });
             
             var href = 'https://grove.io/api/notice/' + groveID + "/";
