@@ -7,6 +7,9 @@
 
 An [Uptime](https://github.com/fzaninotto/uptime) plugin that sends notifications to the [Grove.io](http://grove.io) IRC service. Supports sending each of Uptime's notice types to a list of Grove channels.
 
+[![NPM version](https://badge.fury.io/js/uptime-grove.png)](http://badge.fury.io/js/uptime-grove)
+
+
 Installation
 ============
 
